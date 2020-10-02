@@ -8,13 +8,18 @@ Em 1952, o Spirit estava encerrando seu primeiro ciclo de aventuras nas tirinhas
 
 Um assunto que estava muito na moda, naquela época, era a idéia do "espaço sideral", com seus discos voadores e luzes brilhantes. Foi assim que Will Eisner levou as aventuras de Denny Colt para um caminho  diferente do usual, mais especificamente, a Lua. O Spirit foi recrutado para vigiar alguns prisioneiros que, por sua vez, haviam sido recrutados  para acompanhar o Professor Skol na viagem de sua nave espacial.
 
-Now who is arguably the finest space opera artist in comics? Wally Wood of course and that's who Eisner tapped to take over the strip during this offbeat new trend in the series. The experiment failed and eventually the Spirit was canceled before the end of the storyline, but some very engaging artwork was created by Wood and Eisner during this period.
+Para a arte, foi escolhido o melhor desenhista de space opera dos comics da época, Wally Wood - o mesmo que faria parceria com Jack Kirby para criar Skymasters da Força Espacial, em 1958. Escalado por Eisner para tocar a arte dessa fase diferente nas aventuras de Denny Colt, Wally assumiu o projeto, que fracassou, levando o Spirit a ser cancelado antes do final da história.
 
-Kitchen Sink collected these stories along with the scripts by Jules Feiffer for the unfinished material back in 1989 in one of the most handsome comic volumes I happen to own.
+Ainda assim,  uma arte envolvente foi criada por Wood e Eisner neste período.
 
-Here's a link to some of the earliest stories in the sequence. And here's a link to another one.
+A editora Kitchen Sink reuniu essas histórias, juntamente com os scripts de Jules Feiffer para o material que não chegou a ser finalizado, em 1989. É um material raro e difícil de ser encontrado online.
 
-Here are the very dramatic splash pages to the original Spirit stories. In the third story " A DP on the Moon", the dictator was originally written by Jules Feiffer to be Hitler. Wally Wood apparently drew it that way, but Eisner changed it to a fictional South American dictator. He thought there were too many Hitler-is-still-alive stories at the time. It's too bad as that really undermines the effectiveness of the story.
+Aqui você pode encontrar algumas das primeiras histórias desse arco, na sequencia. Basta clicar neste [link](http://ethunter1.blogspot.com/2010/11/sunday-funnies-spirit-moon.html).
+
+E abaixo você pode encontrar  as "splash pages" das histórias originais. Na terceira história, "A DP on the Moon", o ditador  foi originalmente escrido por Jules Feiffer como sendo Hitler. Wally Wood, aparentemente, parece tê-lo desenhado dessa maneira, mas Eisner decidiu alterar sua identidade, passando para um ditador Sul-Americano fictício. Na época, ele pensou que havia muitas histórias do tipo "Hitler ainda está vivo" sendo publicadas.
+
+É uma pena, pois isso realmente prejudica a eficácia da história.
+
 
 ![CV as pdf](/intro.jpg)
 
@@ -33,7 +38,7 @@ Here are the very dramatic splash pages to the original Spirit stories. In the t
 ![CV as pdf](_files/8.jpg)
 
 
-And here are a trio of covers done by Will Eisner for regular Kitchen Sink comic reprints of these stories.
+E aqui está um trio de capas feitas por Will Eisner para reimpressões regulares de quadrinhos da Kitchen Sink dessas histórias:
 
 ![CV as pdf](_files/capa1.jpg)
 
@@ -42,6 +47,6 @@ And here are a trio of covers done by Will Eisner for regular Kitchen Sink comic
 ![CV as pdf](_files/capa3.jpg)
 
 
-And here's the DC Archive featuring these final stories.
+E aqui está o  "DC Archive" apresentando essas histórias finais:
 
 ![CV as pdf](_files/encadernado.jpg)
