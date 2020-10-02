@@ -23,7 +23,7 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 
 [![CV as pdf](/_posts/_files/intro.jpg)]
 
-![CV as pdf](_files/2.jpg)
+[![CV as pdf](_files/2.jpg)]
 
 ![CV as pdf](_files/3.jpg)
 
