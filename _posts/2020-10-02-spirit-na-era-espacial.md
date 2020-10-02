@@ -16,7 +16,7 @@ A editora Kitchen Sink reuniu essas histórias, juntamente com os scripts de Jul
 
 Aqui você pode encontrar algumas das primeiras histórias desse arco, na sequencia. Basta clicar neste [link](http://ethunter1.blogspot.com/2010/11/sunday-funnies-spirit-moon.html).
 
-E abaixo você pode encontrar  as "splash pages" das histórias originais. Na terceira história, "A DP on the Moon", o ditador  foi originalmente escrido por Jules Feiffer como sendo Hitler. Wally Wood, aparentemente, parece tê-lo desenhado dessa maneira, mas Eisner decidiu alterar sua identidade, passando para um ditador Sul-Americano fictício. Na época, ele pensou que havia muitas histórias do tipo "Hitler ainda está vivo" sendo publicadas.
+E abaixo você pode encontrar  as "splash pages" das histórias originais. Na terceira história, "A DP on the Moon", o ditador  foi originalmente escrito por Jules Feiffer como sendo Hitler. Wally Wood, aparentemente, parece tê-lo desenhado dessa maneira, mas Eisner decidiu alterar sua identidade, passando para um ditador Sul-Americano fictício. Na época, ele pensou que havia muitas histórias do tipo "Hitler ainda está vivo" sendo publicadas.
 
 É uma pena, pois isso realmente prejudica a eficácia da história.
 
