@@ -21,7 +21,7 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 É uma pena, pois isso realmente prejudica a eficácia da história.
 
 
-![CV as pdf](/intro.jpg)
+![CV as pdf](/_posts/_files/intro.jpg)
 
 ![CV as pdf](_files/2.jpg)
 
