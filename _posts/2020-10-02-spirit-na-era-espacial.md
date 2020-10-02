@@ -23,26 +23,26 @@ Here are the very dramatic splash pages to the original Spirit stories. In the t
 
 ![CV as pdf](_files/3.jpg)
 
-[![CV as pdf](_files/4.jpg)
+![CV as pdf](_files/4.jpg)
 
-[![CV as pdf](_files/5.jpg)
+![CV as pdf](_files/5.jpg)
 
-[![CV as pdf](_files/6.jpg)
+![CV as pdf](_files/6.jpg)
 
-[![CV as pdf](_files/7.jpg)
+![CV as pdf](_files/7.jpg)
 
-[![CV as pdf](_files/8.jpg)
+![CV as pdf](_files/8.jpg)
 
 
 And here are a trio of covers done by Will Eisner for regular Kitchen Sink comic reprints of these stories.
 
-[![CV as pdf](_files/capa1.jpg)
+![CV as pdf](_files/capa1.jpg)
 
-[![CV as pdf](_files/capa2.jpg)
+![CV as pdf](_files/capa2.jpg)
 
-[![CV as pdf](_files/capa3.jpg)
+![CV as pdf](_files/capa3.jpg)
 
 
 And here's the DC Archive featuring these final stories.
 
-[texto![CV as pdf](_files/encadernado.jpg)
+![CV as pdf](_files/encadernado.jpg)
