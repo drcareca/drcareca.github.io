@@ -6,8 +6,7 @@ categories: quadrinhos
 
 Em 1952, o Spirit estava encerrando seu primeiro ciclo de aventuras nas tirinhas dos jornais e, por incrível que possa parecer, Will Eisner estava perdendo o interesse em sua criação. A concorrência com a TV, entre outras coisas, dificultava a viabilidade de manter a publicação e o autor queria levar seu talento para novos ares. Neste período, a tirinha já estava sendo escrita por outra pessoa, Jules Feiffer, e um artista substituto precisava ser encontrado.
 
-One trend at the time was outer space antics and flying sauces and whatnot. So Eisner took the adventures of Denny Colt into an unusual venue, specifically the Moon. The Spirit is recruited to oversee some prisoners who have themselves been recruited to accompany one Professor Skol in his rocket ship.
-
+Um assunto que estava muito na moda, naquela época, era a idéia do "espaço sideral", com seus discos voadores e luzes brilhantes. Foi assim que Will Eisner levou as aventuras de Denny Colt para um caminho  diferente do usual, mais especificamente, a Lua. O Spirit foi recrutado para vigiar alguns prisioneiros que, por sua vez, haviam sido recrutados  para acompanhar o Professor Skol na viagem de sua nave espacial.
 
 Now who is arguably the finest space opera artist in comics? Wally Wood of course and that's who Eisner tapped to take over the strip during this offbeat new trend in the series. The experiment failed and eventually the Spirit was canceled before the end of the storyline, but some very engaging artwork was created by Wood and Eisner during this period.
 
