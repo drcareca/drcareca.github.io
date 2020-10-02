@@ -16,12 +16,12 @@ Here's a link to some of the earliest stories in the sequence. And here's a link
 
 Here are the very dramatic splash pages to the original Spirit stories. In the third story " A DP on the Moon", the dictator was originally written by Jules Feiffer to be Hitler. Wally Wood apparently drew it that way, but Eisner changed it to a fictional South American dictator. He thought there were too many Hitler-is-still-alive stories at the time. It's too bad as that really undermines the effectiveness of the story.
 
-[![CV as pdf](_files/intro.jpg)]
+![CV as pdf](_files/intro.jpg)
 
 
-[![CV as pdf](_files/2.jpg)
+![CV as pdf](_files/2.jpg)
 
-[![CV as pdf](_files/3.jpg)
+![CV as pdf](_files/3.jpg)
 
 [![CV as pdf](_files/4.jpg)
 
