@@ -33,16 +33,18 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
     </a>
   </td>
 </tr>
+</br>
 <tr>
   <td class="left">
-  <img src="_posts/_files/3.jpg"  title="A DP on the Moon"/>
+  <img src="_files/3.jpg"  title="A DP on the Moon"/>
     </a>
   </td>
   <td class="right">
-  <img src="_posts/_files/4.jpg"  title="Heat"/>
+  <img src="_files/4.jpg"  title="Heat"/>
     </a>
   </td>
 </tr>
+</br>
 </table>
 
 
