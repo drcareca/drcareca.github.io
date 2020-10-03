@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "The Spirit e a corrida espacial"
+title: "O Spirit na corrida espacial"
 categories: quadrinhos
+author: Francisco Nascimento
+meta: "quadrinhos"
 ---
-
 Em 1952, o Spirit estava encerrando seu primeiro ciclo de aventuras nas tirinhas dos jornais e, por incrível que possa parecer, Will Eisner estava perdendo o interesse em sua criação. A concorrência com a TV, entre outras coisas, dificultava a viabilidade de manter a publicação e o autor queria levar seu talento para novos ares. Neste período, a tirinha já estava sendo escrita por outra pessoa, Jules Feiffer, e um artista substituto precisava ser encontrado.
 
 Um assunto que estava muito na moda, naquela época, era a idéia do "espaço sideral", com seus discos voadores e luzes brilhantes. Foi assim que Will Eisner levou as aventuras de Denny Colt para um caminho  diferente do usual, mais especificamente, a Lua. O Spirit foi recrutado para vigiar alguns prisioneiros que, por sua vez, haviam sido recrutados  para acompanhar o Professor Skol na viagem de sua nave espacial.
