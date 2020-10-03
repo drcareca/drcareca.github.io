@@ -21,9 +21,23 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 É uma pena, pois isso realmente prejudica a eficácia da história.
 
 
-[![CV as pdf](/_posts/_files/intro.jpg)]
+![CV as pdf](https://drcareca.github.io/_posts/_files/intro.jpg)
+
+<div class="span2">
+<a href="../_posts/_files/2.jpg">
+    <img src="../_posts/_files/2.jpg"
+          title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
+</div>
+
+<div class="span2">
+         <a href="https://drcareca.github.io/_posts/_files/3.jpg" target="_blank">
+           <img src="https://drcareca.github.io/_posts/_files/3.jpg" alt="estudar ouvindo lofi hip hop é relaxante e auxilia sua concentração." width=120 height=80 title="Prof. Dr. Francisco Nascimento" alt="Francisco de Assis Nascimento Junior">
+         </a>
+       </div>
+
 
 [![CV as pdf](_files/2.jpg)]
+
 
 ![CV as pdf](_files/3.jpg)
 
