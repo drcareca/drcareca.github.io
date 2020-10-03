@@ -27,16 +27,15 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 
 ![A DP on the Moon](../_posts/_files/3.jpg?raw=true)
 
+![Heat!](../_posts/_files/4.jpg?raw=true)
 
-![Heat!](_files/4.jpg)
+![Rescue](../_posts/_files/5.jpg?raw=true)
 
-![rescue](_files/5.jpg)
+![The Last man on the planet Moon](../_posts/_files/6.jpg?raw=true)
 
-![The Last man on the planet Moon](_files/6.jpg)
+![The  man on the  Moon](../_posts/_files/7.jpg?raw=true)
 
-![The  man on the Moon](_files/7.jpg)
-
-![Return from the Moon](_files/8.jpg)
+![Return from the  Moon](../_posts/_files/8.jpg?raw=true)
 
 
 E aqui está um trio de capas feitas por Will Eisner para reimpressões regulares de quadrinhos da Kitchen Sink dessas histórias:
