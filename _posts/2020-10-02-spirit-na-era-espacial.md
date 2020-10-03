@@ -23,17 +23,10 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 
 ![Image](../_posts/_files/intro.jpg?raw=true)
 
-<div class="span2">
-<a href="../_posts/_files/2.jpg">
-    <img src="../_posts/_files/2.jpg"
-          title="Mission: the Moon" alt="moon mission"/></a>
-</div>
+![Mission: the Moon](../_posts/_files/2.jpg?raw=true)
 
-<div class="span2">
-         <a href="https://drcareca.github.io/_posts/_files/3.jpg" target="_blank">
-           <img src="https://drcareca.github.io/_posts/_files/3.jpg"  title="A DP on the Moon" alt="Moon DP">
-         </a>
-       </div>
+![A DP on the Moon](../_posts/_files/3.jpg?raw=true)
+
 
 ![Heat!](_files/4.jpg)
 
