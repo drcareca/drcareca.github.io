@@ -25,7 +25,7 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 <table class="wide">
 <tr>
   <td class="left">
-        <img src="https://drcareca.github.io/_posts/_files/intro.jpg"  title="Outer Space"/>
+        <img src="_files/intro.jpg"  title="Outer Space"/>
     </a>
   </td>
   <td class="right">
