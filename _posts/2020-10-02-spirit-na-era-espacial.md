@@ -21,7 +21,7 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 É uma pena, pois isso realmente prejudica a eficácia da história.
 
 
-![mission... The Moon](https://drcareca.github.io/_posts/_files/intro.jpg)
+![Image](../_posts/_files/intro.jpg?raw=true)
 
 <div class="span2">
 <a href="../_posts/_files/2.jpg">
