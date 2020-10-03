@@ -25,11 +25,11 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 <table class="wide">
 <tr>
   <td class="left">
-        <img src="_posts/_files/intro.jpg"  title="Outer Space"/>
+        <img src="_files/intro.jpg"  title="Outer Space"/>
     </a>
   </td>
   <td class="right">
-        <img src="_posts/_files/2.jpg"  title="Mission: the Moon"/>
+        <img src="_files/2.jpg"  title="Mission: the Moon"/>
     </a>
   </td>
 </tr>
