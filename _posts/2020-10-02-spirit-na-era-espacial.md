@@ -21,35 +21,29 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 É uma pena, pois isso realmente prejudica a eficácia da história.
 
 
-![CV as pdf](https://drcareca.github.io/_posts/_files/intro.jpg)
+![mission... The Moon](https://drcareca.github.io/_posts/_files/intro.jpg)
 
 <div class="span2">
 <a href="../_posts/_files/2.jpg">
     <img src="../_posts/_files/2.jpg"
-          title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
+          title="Mission: the Moon" alt="moon mission"/></a>
 </div>
 
 <div class="span2">
          <a href="https://drcareca.github.io/_posts/_files/3.jpg" target="_blank">
-           <img src="https://drcareca.github.io/_posts/_files/3.jpg" alt="estudar ouvindo lofi hip hop é relaxante e auxilia sua concentração." width=120 height=80 title="Prof. Dr. Francisco Nascimento" alt="Francisco de Assis Nascimento Junior">
+           <img src="https://drcareca.github.io/_posts/_files/3.jpg" alt="estudar ouvindo lofi hip hop é relaxante e auxilia sua concentração." width=120 height=80 title="A DP on the Moon" alt="Moon DP">
          </a>
        </div>
 
+![Heat!](_files/4.jpg)
 
-[![CV as pdf](_files/2.jpg)]
+![rescue](_files/5.jpg)
 
+![The Last man on the planet Moon](_files/6.jpg)
 
-![CV as pdf](_files/3.jpg)
+![The  man on the Moon](_files/7.jpg)
 
-![CV as pdf](_files/4.jpg)
-
-![CV as pdf](_files/5.jpg)
-
-![CV as pdf](_files/6.jpg)
-
-![CV as pdf](_files/7.jpg)
-
-![CV as pdf](_files/8.jpg)
+![Return from the Moon](_files/8.jpg)
 
 
 E aqui está um trio de capas feitas por Will Eisner para reimpressões regulares de quadrinhos da Kitchen Sink dessas histórias:
