@@ -22,29 +22,13 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 É uma pena, pois isso realmente prejudica a eficácia da história.
 
 
-<table class="wide">
-<tr>
-  <td class="left">
-        <img src="_posts/_files/intro.jpg"  title="Outer Space"/>
-    </a>
-  </td>
-  <td class="right">
-        <img src="_posts/_files/2.jpg"  title="Mission: the Moon"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-  <img src="_posts/_files/3.jpg"  title="A DP on the Moon"/>
-    </a>
-  </td>
-  <td class="right">
-  <img src="_posts/_files/4.jpg"  title="Heat"/>
-    </a>
-  </td>
-</tr>
-</table>
+![Image](../_posts/_files/intro.jpg?raw=true)
 
+![Mission: the Moon](../_posts/_files/2.jpg?raw=true)
+
+![A DP on the Moon](../_posts/_files/3.jpg?raw=true)
+
+![Heat!](../_posts/_files/4.jpg?raw=true)
 
 ![Rescue](../_posts/_files/5.jpg?raw=true)
 
