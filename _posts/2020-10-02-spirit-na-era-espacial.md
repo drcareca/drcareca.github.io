@@ -40,13 +40,12 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 
 E aqui está um trio de capas feitas por Will Eisner para reimpressões regulares de quadrinhos da Kitchen Sink dessas histórias:
 
-![CV as pdf](_files/capa1.jpg)
+![The Spirit #85](../_posts/_files/capa1.jpg?raw=true)
 
-![CV as pdf](_files/capa2.jpg)
+![The Spirit #86](../_posts/_files/capa2.jpg?raw=true)
 
-![CV as pdf](_files/capa3.jpg)
-
+![The Spirit #87](../_posts/_files/capa3.jpg?raw=true)
 
 E aqui está o  "DC Archive" apresentando essas histórias finais:
 
-![CV as pdf](_files/encadernado.jpg)
+![The Spirit Archives](../_posts/_files/encadernado.jpg?raw=true)
