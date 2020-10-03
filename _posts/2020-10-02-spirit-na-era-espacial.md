@@ -31,7 +31,7 @@ E abaixo você pode encontrar  as "splash pages" das histórias originais. Na te
 
 <div class="span2">
          <a href="https://drcareca.github.io/_posts/_files/3.jpg" target="_blank">
-           <img src="https://drcareca.github.io/_posts/_files/3.jpg" alt="estudar ouvindo lofi hip hop é relaxante e auxilia sua concentração." width=120 height=80 title="A DP on the Moon" alt="Moon DP">
+           <img src="https://drcareca.github.io/_posts/_files/3.jpg"  title="A DP on the Moon" alt="Moon DP">
          </a>
        </div>
 
